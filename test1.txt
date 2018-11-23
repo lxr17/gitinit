@@ -7,3 +7,5 @@ zheshi zai xinde fenzhi shangde tijiao.
 feature1上更改了东西。
 
 试一试--no-ff的分支合并方式
+
+修改了bug
